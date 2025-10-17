@@ -1,45 +1,8 @@
-# Car Racing 2
+https://play.usdc.li/game/Car-racing-2-main/v4.final.html
+这个开车小游戏目前是我们论坛的一个扩展
+想要加入的功能，运货功能，路边增加杂货店，加油站，运货接收点兼送货点，货币系统
+完成送货任务给予货币奖励，可以去杂货店消费获取道具，装饰，改装部件以及解锁新的背景音乐，路边接货点可以接货后开一段距离送货，增加暴力摩托的机制：路边随机有人招手搭车，但你不知道他是不是小粉红，小粉红上车后会出现一个额外窗口显示像素乘客，一路上会跟你闲聊，根据他的对话和衣着等检查他是不是小粉红，寻找小粉红！
 
-## **Live Preview:** You can play Car Racing 2 [here](https://krypto-etox.github.io/Car-racing-2/).
 
-Welcome to Car Racing 2, a thrilling racing game where you'll experience high-speed action and adrenaline-pumping races!
 
-## **Description:**
-Car Racing 2 puts you behind the wheel of powerful cars as you compete against skilled opponents on various tracks. With realistic graphics and immersive gameplay, get ready for an exhilarating racing experience like no other.
-
-## **Features:**
-- High-speed racing: Feel the rush of speed as you navigate through challenging tracks.
-- Variety of cars: Choose from a selection of high-performance cars, each with unique handling characteristics.
-- Multiple tracks: Race on different tracks, from city streets to winding mountain roads.
-- Compete against AI: Test your skills against computer-controlled opponents in single-player mode.
-- Multiplayer mode: Challenge your friends or other players online in multiplayer races.
-
-## **How to Play:**
-1. Clone this repository to your local machine or download the source code as a ZIP file.
-2. Open the `index.html` file in your preferred web browser.
-3. Select your car and track.
-4. Use the arrow keys or WASD keys to control your car.
-5. Race against opponents and aim to reach the finish line first.
-
-## **Contributing:**
-Contributions to this project are welcome! Whether you want to fix bugs, add new features, or improve existing ones, feel free to fork this repository, make your changes, and submit a pull request.
-
-## **Credits:**
-- Car Racing 2 is inspired by classic racing games.
-- Special thanks to all contributors who have helped enhance and improve Car Racing 2.
-
-## **License:**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## **Feedback:**
-If you have any feedback, suggestions, or bug reports, please feel free to open an issue on this repository. Your input is highly appreciated and will help make Car Racing 2 even better.
-
-## **Installation:**
-```bash
-echo "# car-racing-2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Krypto-etox/car-racing-2.git
-git push -u origin main
+<img width="857" height="576" alt="image" src="https://github.com/user-attachments/assets/86347104-32c2-4170-bb10-48ceb18d9b36" />
